@@ -1,0 +1,15 @@
+skeleton/
+    NAME.gemspec
+    Rakefile
+    data
+    ext/
+    tests/
+    bin/
+        NAME
+    doc/
+    lib/
+        NAME
+        NAME.rb
+    lib/NAME
+    tests/
+        test_NAME.rb
